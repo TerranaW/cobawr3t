@@ -1,5 +1,5 @@
 import React from "react"
-
+import NOT from "../Components/NotLoggedIn"
 
 
 function LandingPage() {
@@ -7,7 +7,7 @@ function LandingPage() {
     return (
         <>
             <div>
-
+                <NOT />
             </div>
 
         </>
